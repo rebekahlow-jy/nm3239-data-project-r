@@ -1,0 +1,7 @@
+csv_crudeMarriageRate <- read.csv("./csv/crude-marriage-rate.csv")
+csv_femaleAgeSpecificMarriageRate <- read.csv("./csv/female-age-specific-marriage-rate.csv")
+csv_maleAgeSpecificMarriageRate <- read.csv("./csv/male-age-specific-marriage-rate.csv")
+csv_femaleGeneralMarriageRate <- read.csv("./csv/female-general-marriage-rate.csv")
+csv_maleGeneralMarriageRate <- read.csv("./csv/male-general-marriage-rate.csv")
+csv_totalDivorcesByDurationOfMarriage <- read.csv("./csv/total-divorces-by-duration-of-marriage-annual.csv")
+csv_flatsConstructedByHDB <- read.csv("./csv/flats-constructed-by-housing-and-development-board-annual.csv")
